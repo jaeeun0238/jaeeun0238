@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/jaeeun0238/jaeeun0238/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 <!--
 **jaeeun0238/jaeeun0238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
